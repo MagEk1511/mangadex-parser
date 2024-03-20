@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: MainKt
+Class-Path: gson-2.10.1.jar junit-platform-commons-1.6.3.jar junit-jupit
+ er-engine-5.6.3.jar kotlin-stdlib-1.9.21.jar annotations-13.0.jar junit
+ -jupiter-api-5.6.3.jar kotlin-test-1.9.21.jar kotlin-test-junit5-1.9.21
+ .jar opentest4j-1.2.0.jar junit-platform-engine-1.6.3.jar apiguardian-a
+ pi-1.1.0.jar
+
